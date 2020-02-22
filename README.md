@@ -1,5 +1,5 @@
 # Deep-Learning-Assignmets
-My team implementation for Deep Learning assignmets for Deep Learning course at University of Freiburg.<br />
+My team's implementations for Deep Learning assignmets for Deep Learning course at University of Freiburg.<br />
 The assignments have been implemnted by team of two me and my partner.<br />
 Assignment 1: Tensor Manipulation<br />
 Assignment 2: Feedforward implementation<br />
